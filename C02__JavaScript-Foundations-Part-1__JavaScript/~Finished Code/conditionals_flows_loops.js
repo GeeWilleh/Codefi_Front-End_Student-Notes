@@ -41,7 +41,7 @@ if (username === "CodeCoachWill" && password === 12345) {
 }
 
 // * "for" loop *
-console.groupCollapsed("For Loop");
+console.group("For Loop");
 
 for (let i = 0; i < users.length; i++) {
   console.log("=====NEW ITERATION======");
