@@ -34,3 +34,37 @@
 [Class 6: JavaScript Essential Concepts - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C06__JavaScript-Essential-Concepts__JavaScript/Class/C6_NOTES.md)
 
 [Class 6: JavaScript Essential Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C06__JavaScript-Essential-Concepts__JavaScript/Class/C6_EXERCISES.md)
+
+---
+
+[Class 7: JavaScript Intermediate Concepts - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C07__JavaScript-Intermediate-Concepts__JavaScript/Class/C7_NOTES.md)
+
+[Class 7: JavaScript Intermediate Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C07__JavaScript-Intermediate-Concepts__JavaScript/Class/C7_EXERCISES.md)
+
+---
+
+[Class 8: JavaScript Advanced Concepts - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C08__JavaScript-Advanced-Concepts__JavaScript/Class/C8_NOTES.md)
+
+[Class 8: JavaScript Advanced Concepts - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C08__JavaScript-Advanced-Concepts__JavaScript/Class/C8_EXERCISES.md)
+
+---
+
+
+[Class 9: Review Day](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C09__JavaScript-Review/C9_NOTES.md)
+
+
+---
+
+
+[Class 10: Introduction to Typescript - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C10__Introduction-to-Typescript__Angular/Class/C10_NOTES.md)
+
+[Class 10: Introduction to Typescript - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C10__Introduction-to-Typescript__Angular/Class/C10_EXERCISES.md)
+
+---
+
+
+[Class 11: Angular Getting Started - Notes](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C11__Completing-Getting-Started__Angular/C11_NOTES.md)
+
+[Class 11: Angular Getting Started - Exercises](https://github.com/WilderDev/Codefi_Front-End_Student-Notes/blob/main/C11__Completing-Getting-Started__Angular/C11_EXERCISES.md)
+
+
