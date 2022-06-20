@@ -69,3 +69,7 @@ Decide on and clearly state:
 [Evergreen Developer Skills _(Repository)_ ](https://github.com/romenrg/evergreen-skills-developers)
 
 [Curated list of topics that university covers in computer science _(Twitter Thread)_](https://twitter.com/haezurath/status/1505563416370597893?s=12)
+
+[List of resumes](https://github.com/emmabostian/developer-portfolios)
+
+[Prep for the interview](https://www.techinterviewhandbook.org/behavioral-interview/)
